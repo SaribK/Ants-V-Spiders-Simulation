@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=QueenSpider
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ant\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Ant\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=damage
+comment10.target=void\ takeDamage(double)
+comment2.params=
+comment2.target=void\ eat()
+comment3.params=
+comment3.target=void\ attack()
+comment4.params=
+comment4.target=void\ track()
+comment5.params=
+comment5.target=void\ collectFood()
+comment6.params=
+comment6.target=void\ leaveTrail()
+comment7.params=
+comment7.target=void\ eatFood()
+comment8.params=
+comment8.target=void\ getEnergy()
+comment9.params=
+comment9.target=void\ getSize()
+numComments=11
